@@ -1,17 +1,10 @@
-### rikesh thapa
-
+### RIKESH KUMAR THAPA
 **web developer & automation specialist** · kathmandu, nepal
 
-websites and ai workflows, side by side — funnels, sites and crm automations, built remotely for an australian agency.
+websites and ai workflows, side by side — funnels, sites and crm automations.
 
 ---
 
-#### what i do
-
-- **automation** — multi-client n8n systems: competitor research, content generation, scheduled posting
-- **web** — funnels, websites and crm builds in gohighlevel, plus hand-written front ends
-- **3d & motion** — scroll-driven three.js scenes with gsap
-- **infra** — docker, self-hosted n8n and postiz
 
 #### stack
 
